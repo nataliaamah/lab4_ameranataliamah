@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "433015680975",
+    "firebase_url": "https://lab4-ameranataliamah-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab4-ameranataliamah",
+    "storage_bucket": "lab4-ameranataliamah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433015680975:android:1cb25346246189cf1aacba",
+        "android_client_info": {
+          "package_name": "com.example.lab4_ameranataliamah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaDkr2dFB_N973yyj7YKioDbFxx6oZPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
